@@ -4,7 +4,7 @@ let inputfield = document.getElementById("inputfield");
 let list = document.getElementById("list");
 
 
-//functions
+
 addbutton.addEventListener("click", function () {
   let field = document.getElementById("inputfield").value;
   let task = document.createElement("li");

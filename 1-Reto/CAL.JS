@@ -1,5 +1,5 @@
 
-const teclado = document.getElementById('Teclado');
+const btNumber = document.getElementsByName('data-number')
+const btnOperation = document.getElementsByName('data-number')
 
-//imprimer el padre
-console.log(teclado)
+
